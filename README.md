@@ -1,0 +1,2 @@
+"# Numpy" 
+"#Bilgi Deneyim NumPy derslerine hoügeldiniz" 
